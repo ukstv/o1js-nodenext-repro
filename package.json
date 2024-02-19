@@ -1,0 +1,16 @@
+{
+  "name": "o1js-nodenext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "o1js": "^0.16.2",
+    "typescript": "^5.3.3"
+  }
+}
